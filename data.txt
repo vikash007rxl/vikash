@@ -1,6 +1,10 @@
 B Ed
 water purifier
+<<<<<<< HEAD
 rgrgrtg
+=======
+11111111111
+>>>>>>> 582ec9586b226b13dc21992ee2f72e28951f63c7
 
 Google all
 Just dial
