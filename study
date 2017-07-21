@@ -10,7 +10,7 @@ public class WeakHashMapExample {
     public static void main(String[] args) { 
  
            
-        // Created HashMap and WeakHashMap objects
+        // Created HashMap and WeakHashMap objects vkash changes
 
         Map hashmapObject = new HashMap();
         Map weakhashmapObject = new WeakHashMap();
