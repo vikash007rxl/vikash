@@ -9,7 +9,7 @@ public class WeakHashMapExample {
     
     public static void main(String[] args) { 
  
-           
+          
         // Created HashMap and WeakHashMap objects Test by Gaja
 
         Map hashmapObject = new HashMap();
