@@ -10,7 +10,8 @@ public class WeakHashMapExample {
     public static void main(String[] args) { 
  
           
-        // Created HashMap and WeakHashMap objects Test by Gaja
+        // Created HashMap and WeakHashMap objects Test by Gaja 2nd changed
+		// added a new iline
 
         Map hashmapObject = new HashMap();
         Map weakhashmapObject = new WeakHashMap();
